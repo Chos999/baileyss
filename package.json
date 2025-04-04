@@ -54,6 +54,7 @@
     "libsignal": "github:WhiskeySockets/libsignal-node",
     "lodash": "^4.17.21",
     "loader": "^2.1.1",
+    "link-preview-js": "^3.0.14",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "@cacheable/node-cache": "^1.4.0",

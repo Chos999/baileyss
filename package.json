@@ -56,9 +56,9 @@
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "@cacheable/node-cache": "^1.4.0",
-    "pino": "^9.6",
+    "pino": "^9.6.0",
     "protobufjs": "^7.2.4",
-    "uuid": "^10.0.0",
+    "uuid": "^11.1.0",
     "ws": "^8.13.0"
   },
   "devDependencies": {
@@ -68,7 +68,7 @@
     "@types/sharp": "^0.29.4",
     "@types/ws": "^8.0.0",
     "conventional-changelog-cli": "^2.2.2",
-    "eslint": "^8.0.0",
+    "eslint": "^9.23.0",
     "jest": "^27.0.6",
     "jimp": "^0.16.1",
     "json": "^11.0.0",

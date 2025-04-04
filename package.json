@@ -53,6 +53,7 @@
     "libphonenumber-js": "^1.10.20",
     "libsignal": "github:WhiskeySockets/libsignal-node",
     "lodash": "^4.17.21",
+    "loader": "^2.1.1",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "@cacheable/node-cache": "^1.4.0",
